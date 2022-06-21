@@ -11,9 +11,9 @@ let a = [];
 Object.values(document.getElementsByTagName("tbody")[0].children).map(
   (item) => {
     a.push({
-      "country-name": item.children[0].innerText,
-      "currency-unit": item.children[1].innerText,
-      "currency-code": item.children[2].innerText,
+      "country": item.children[0].innerText,
+      "currencyUnit": item.children[1].innerText,
+      "currencyCode": item.children[2].innerText,
     });
   }
 );

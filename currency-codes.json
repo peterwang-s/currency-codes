@@ -1,1342 +1,1342 @@
 [
   {
-    "country-name": "玻利维亚",
-    "currency-unit": "苏克雷",
-    "currency-code": "XSU"
+    "country": "玻利维亚",
+    "currencyUnit": "苏克雷",
+    "currencyCode": "XSU"
   },
   {
-    "country-name": "不丹",
-    "currency-unit": "努扎姆",
-    "currency-code": "BTN"
+    "country": "不丹",
+    "currencyUnit": "努扎姆",
+    "currencyCode": "BTN"
   },
   {
-    "country-name": "不丹",
-    "currency-unit": "印度卢比",
-    "currency-code": "INR"
+    "country": "不丹",
+    "currencyUnit": "印度卢比",
+    "currencyCode": "INR"
   },
   {
-    "country-name": "中国",
-    "currency-unit": "人民币元",
-    "currency-code": "CNY"
+    "country": "中国",
+    "currencyUnit": "人民币元",
+    "currencyCode": "CNY"
   },
   {
-    "country-name": "中国澳门",
-    "currency-unit": "澳元",
-    "currency-code": "MOP"
+    "country": "中国澳门",
+    "currencyUnit": "澳元",
+    "currencyCode": "MOP"
   },
   {
-    "country-name": "中国香港",
-    "currency-unit": "港元",
-    "currency-code": "HKD"
+    "country": "中国香港",
+    "currencyUnit": "港元",
+    "currencyCode": "HKD"
   },
   {
-    "country-name": "中非共和国",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "中非共和国",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "丹麦",
-    "currency-unit": "丹麦克朗",
-    "currency-code": "DKK"
+    "country": "丹麦",
+    "currencyUnit": "丹麦克朗",
+    "currencyCode": "DKK"
   },
   {
-    "country-name": "乌克兰",
-    "currency-unit": "格里夫尼亚",
-    "currency-code": "UAH"
+    "country": "乌克兰",
+    "currencyUnit": "格里夫尼亚",
+    "currencyCode": "UAH"
   },
   {
-    "country-name": "乌兹别克斯坦",
-    "currency-unit": "乌兹别克斯坦萨",
-    "currency-code": "UZS"
+    "country": "乌兹别克斯坦",
+    "currencyUnit": "乌兹别克斯坦萨",
+    "currencyCode": "UZS"
   },
   {
-    "country-name": "乌干达",
-    "currency-unit": "乌干达先令",
-    "currency-code": "UGX"
+    "country": "乌干达",
+    "currencyUnit": "乌干达先令",
+    "currencyCode": "UGX"
   },
   {
-    "country-name": "乌拉圭",
-    "currency-unit": "乌拉圭比索",
-    "currency-code": "UYI"
+    "country": "乌拉圭",
+    "currencyUnit": "乌拉圭比索",
+    "currencyCode": "UYI"
   },
   {
-    "country-name": "乌拉圭",
-    "currency-unit": "乌拉圭比索",
-    "currency-code": "UYU"
+    "country": "乌拉圭",
+    "currencyUnit": "乌拉圭比索",
+    "currencyCode": "UYU"
   },
   {
-    "country-name": "乍得",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "乍得",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "也门",
-    "currency-unit": "也门里亚尔",
-    "currency-code": "YER"
+    "country": "也门",
+    "currencyUnit": "也门里亚尔",
+    "currencyCode": "YER"
   },
   {
-    "country-name": "亚美尼亚",
-    "currency-unit": "亚美尼亚德拉姆",
-    "currency-code": "AMD"
+    "country": "亚美尼亚",
+    "currencyUnit": "亚美尼亚德拉姆",
+    "currencyCode": "AMD"
   },
   {
-    "country-name": "以色列",
-    "currency-unit": "新谢克尔",
-    "currency-code": "ILS"
+    "country": "以色列",
+    "currencyUnit": "新谢克尔",
+    "currencyCode": "ILS"
   },
   {
-    "country-name": "伊拉克",
-    "currency-unit": "伊拉克第纳尔",
-    "currency-code": "IQD"
+    "country": "伊拉克",
+    "currencyUnit": "伊拉克第纳尔",
+    "currencyCode": "IQD"
   },
   {
-    "country-name": "伊朗(伊斯兰共和国)",
-    "currency-unit": "伊朗里亚尔",
-    "currency-code": "IRR"
+    "country": "伊朗(伊斯兰共和国)",
+    "currencyUnit": "伊朗里亚尔",
+    "currencyCode": "IRR"
   },
   {
-    "country-name": "伯兹瓦纳",
-    "currency-unit": "普拉",
-    "currency-code": "BWP"
+    "country": "伯兹瓦纳",
+    "currencyUnit": "普拉",
+    "currencyCode": "BWP"
   },
   {
-    "country-name": "伯利兹城",
-    "currency-unit": "伯利兹元",
-    "currency-code": "BZD"
+    "country": "伯利兹城",
+    "currencyUnit": "伯利兹元",
+    "currencyCode": "BZD"
   },
   {
-    "country-name": "俄罗斯联邦",
-    "currency-unit": "俄罗斯卢布",
-    "currency-code": "RUB"
+    "country": "俄罗斯联邦",
+    "currencyUnit": "俄罗斯卢布",
+    "currencyCode": "RUB"
   },
   {
-    "country-name": "保加利亚",
-    "currency-unit": "保加利亚列瓦",
-    "currency-code": "BGN"
+    "country": "保加利亚",
+    "currencyUnit": "保加利亚列瓦",
+    "currencyCode": "BGN"
   },
   {
-    "country-name": "克罗地亚",
-    "currency-unit": "库纳",
-    "currency-code": "HRK"
+    "country": "克罗地亚",
+    "currencyUnit": "库纳",
+    "currencyCode": "HRK"
   },
   {
-    "country-name": "关岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "关岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "冈比亚",
-    "currency-unit": "达拉西",
-    "currency-code": "GMD"
+    "country": "冈比亚",
+    "currencyUnit": "达拉西",
+    "currencyCode": "GMD"
   },
   {
-    "country-name": "冰岛",
-    "currency-unit": "冰岛克朗",
-    "currency-code": "ISK"
+    "country": "冰岛",
+    "currencyUnit": "冰岛克朗",
+    "currencyCode": "ISK"
   },
   {
-    "country-name": "几内亚",
-    "currency-unit": "几内亚法郎",
-    "currency-code": "GNF"
+    "country": "几内亚",
+    "currencyUnit": "几内亚法郎",
+    "currencyCode": "GNF"
   },
   {
-    "country-name": "几内亚比绍",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "几内亚比绍",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "列支敦士顿",
-    "currency-unit": "瑞士法郎",
-    "currency-code": "CHF"
+    "country": "列支敦士顿",
+    "currencyUnit": "瑞士法郎",
+    "currencyCode": "CHF"
   },
   {
-    "country-name": "刚果",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "刚果",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "刚果（刚果民主共和国）",
-    "currency-unit": "刚果法郎",
-    "currency-code": "CDF"
+    "country": "刚果（刚果民主共和国）",
+    "currencyUnit": "刚果法郎",
+    "currencyCode": "CDF"
   },
   {
-    "country-name": "利比亚",
-    "currency-unit": "利比亚第纳尔",
-    "currency-code": "LYD"
+    "country": "利比亚",
+    "currencyUnit": "利比亚第纳尔",
+    "currencyCode": "LYD"
   },
   {
-    "country-name": "利比里亚",
-    "currency-unit": "利比里亚元",
-    "currency-code": "LRD"
+    "country": "利比里亚",
+    "currencyUnit": "利比里亚元",
+    "currencyCode": "LRD"
   },
   {
-    "country-name": "加拿大",
-    "currency-unit": "加元",
-    "currency-code": "CAD"
+    "country": "加拿大",
+    "currencyUnit": "加元",
+    "currencyCode": "CAD"
   },
   {
-    "country-name": "加纳",
-    "currency-unit": "加纳赛地",
-    "currency-code": "GHS"
+    "country": "加纳",
+    "currencyUnit": "加纳赛地",
+    "currencyCode": "GHS"
   },
   {
-    "country-name": "加蓬",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "加蓬",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "匈牙利",
-    "currency-unit": "福林",
-    "currency-code": "HUF"
+    "country": "匈牙利",
+    "currencyUnit": "福林",
+    "currencyCode": "HUF"
   },
   {
-    "country-name": "北马里亚纳群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "北马里亚纳群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "南乔治亚岛和南桑威奇群岛",
-    "currency-unit": "无统一货币",
-    "currency-code": ""
+    "country": "南乔治亚岛和南桑威奇群岛",
+    "currencyUnit": "无统一货币",
+    "currencyCode": ""
   },
   {
-    "country-name": "南极洲",
-    "currency-unit": "无统一货币",
-    "currency-code": ""
+    "country": "南极洲",
+    "currencyUnit": "无统一货币",
+    "currencyCode": ""
   },
   {
-    "country-name": "南苏丹",
-    "currency-unit": "南苏丹镑",
-    "currency-code": "SSP"
+    "country": "南苏丹",
+    "currencyUnit": "南苏丹镑",
+    "currencyCode": "SSP"
   },
   {
-    "country-name": "南非",
-    "currency-unit": "兰特",
-    "currency-code": "ZAR"
+    "country": "南非",
+    "currencyUnit": "兰特",
+    "currencyCode": "ZAR"
   },
   {
-    "country-name": "博内尔、圣尤斯塔提乌斯和萨巴",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "博内尔、圣尤斯塔提乌斯和萨巴",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "卡塔尔",
-    "currency-unit": "卡塔尔里亚尔",
-    "currency-code": "QAR"
+    "country": "卡塔尔",
+    "currencyUnit": "卡塔尔里亚尔",
+    "currencyCode": "QAR"
   },
   {
-    "country-name": "卢旺达",
-    "currency-unit": "卢旺达法郎",
-    "currency-code": "RWF"
+    "country": "卢旺达",
+    "currencyUnit": "卢旺达法郎",
+    "currencyCode": "RWF"
   },
   {
-    "country-name": "卢森堡",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "卢森堡",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "印度",
-    "currency-unit": "印度卢比",
-    "currency-code": "INR"
+    "country": "印度",
+    "currencyUnit": "印度卢比",
+    "currencyCode": "INR"
   },
   {
-    "country-name": "印度尼西亚",
-    "currency-unit": "卢比",
-    "currency-code": "IDR"
+    "country": "印度尼西亚",
+    "currencyUnit": "卢比",
+    "currencyCode": "IDR"
   },
   {
-    "country-name": "危地马拉",
-    "currency-unit": "格查尔",
-    "currency-code": "GTQ"
+    "country": "危地马拉",
+    "currencyUnit": "格查尔",
+    "currencyCode": "GTQ"
   },
   {
-    "country-name": "厄瓜多尔",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "厄瓜多尔",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "厄立特里亚国",
-    "currency-unit": "纳法克",
-    "currency-code": "ERN"
+    "country": "厄立特里亚国",
+    "currencyUnit": "纳法克",
+    "currencyCode": "ERN"
   },
   {
-    "country-name": "古",
-    "currency-unit": "可兑换比索",
-    "currency-code": "CUC"
+    "country": "古",
+    "currencyUnit": "可兑换比索",
+    "currencyCode": "CUC"
   },
   {
-    "country-name": "古巴",
-    "currency-unit": "古巴比索",
-    "currency-code": "CUP"
+    "country": "古巴",
+    "currencyUnit": "古巴比索",
+    "currencyCode": "CUP"
   },
   {
-    "country-name": "台湾 (中国的一个省份)",
-    "currency-unit": "新台币元",
-    "currency-code": "TWD"
+    "country": "台湾 (中国的一个省份)",
+    "currencyUnit": "新台币元",
+    "currencyCode": "TWD"
   },
   {
-    "country-name": "吉尔吉斯斯坦",
-    "currency-unit": "索姆",
-    "currency-code": "KGS"
+    "country": "吉尔吉斯斯坦",
+    "currencyUnit": "索姆",
+    "currencyCode": "KGS"
   },
   {
-    "country-name": "吉布提",
-    "currency-unit": "吉布提法郎",
-    "currency-code": "DJF"
+    "country": "吉布提",
+    "currencyUnit": "吉布提法郎",
+    "currencyCode": "DJF"
   },
   {
-    "country-name": "哈萨克斯坦",
-    "currency-unit": "腾格",
-    "currency-code": "KZT"
+    "country": "哈萨克斯坦",
+    "currencyUnit": "腾格",
+    "currencyCode": "KZT"
   },
   {
-    "country-name": "哥伦比亚",
-    "currency-unit": "哥伦比亚比索",
-    "currency-code": "COP"
+    "country": "哥伦比亚",
+    "currencyUnit": "哥伦比亚比索",
+    "currencyCode": "COP"
   },
   {
-    "country-name": "哥伦比亚",
-    "currency-unit": "哥伦比亚Unidad de Valor Real",
-    "currency-code": "COU"
+    "country": "哥伦比亚",
+    "currencyUnit": "哥伦比亚Unidad de Valor Real",
+    "currencyCode": "COU"
   },
   {
-    "country-name": "哥斯达尼加",
-    "currency-unit": "哥斯达尼家科朗",
-    "currency-code": "CRC"
+    "country": "哥斯达尼加",
+    "currencyUnit": "哥斯达尼家科朗",
+    "currencyCode": "CRC"
   },
   {
-    "country-name": "喀麦隆",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "喀麦隆",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "国际货币基金组织（IMF） ",
-    "currency-unit": "SDR (特别提款权）",
-    "currency-code": "XDR"
+    "country": "国际货币基金组织（IMF） ",
+    "currencyUnit": "SDR (特别提款权）",
+    "currencyCode": "XDR"
   },
   {
-    "country-name": "图瓦卢",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "图瓦卢",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "土库曼斯坦",
-    "currency-unit": "土库曼斯坦新马纳特",
-    "currency-code": "TMT"
+    "country": "土库曼斯坦",
+    "currencyUnit": "土库曼斯坦新马纳特",
+    "currencyCode": "TMT"
   },
   {
-    "country-name": "土耳其",
-    "currency-unit": "土耳其里拉",
-    "currency-code": "TRY"
+    "country": "土耳其",
+    "currencyUnit": "土耳其里拉",
+    "currencyCode": "TRY"
   },
   {
-    "country-name": "圣卢西亚岛",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "圣卢西亚岛",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "圣基茨和尼维斯",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "圣基茨和尼维斯",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "圣多美与普林希比共和国",
-    "currency-unit": "多布拉",
-    "currency-code": "STN"
+    "country": "圣多美与普林希比共和国",
+    "currencyUnit": "多布拉",
+    "currencyCode": "STN"
   },
   {
-    "country-name": "圣巴托罗缪岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "圣巴托罗缪岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "圣文森特和格林纳丁斯",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "圣文森特和格林纳丁斯",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "圣皮埃尔和密克隆群岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "圣皮埃尔和密克隆群岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "圣诞岛",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "圣诞岛",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "圣赫勒拿、阿森松与特里斯坦达库尼亚",
-    "currency-unit": "圣赫勒拿镑",
-    "currency-code": "SHP"
+    "country": "圣赫勒拿、阿森松与特里斯坦达库尼亚",
+    "currencyUnit": "圣赫勒拿镑",
+    "currencyCode": "SHP"
   },
   {
-    "country-name": "圣马丁（法属）",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "圣马丁（法属）",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "圣马丁（荷属）",
-    "currency-unit": "荷属安的列斯盾",
-    "currency-code": "ANG"
+    "country": "圣马丁（荷属）",
+    "currencyUnit": "荷属安的列斯盾",
+    "currencyCode": "ANG"
   },
   {
-    "country-name": "圣马力诺",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "圣马力诺",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "圭亚那",
-    "currency-unit": "圭亚那元",
-    "currency-code": "GYD"
+    "country": "圭亚那",
+    "currencyUnit": "圭亚那元",
+    "currencyCode": "GYD"
   },
   {
-    "country-name": "坦桑尼亚，联合共和国",
-    "currency-unit": "坦桑尼亚先令",
-    "currency-code": "TZS"
+    "country": "坦桑尼亚，联合共和国",
+    "currencyUnit": "坦桑尼亚先令",
+    "currencyCode": "TZS"
   },
   {
-    "country-name": "埃及",
-    "currency-unit": "埃及镑",
-    "currency-code": "EGP"
+    "country": "埃及",
+    "currencyUnit": "埃及镑",
+    "currencyCode": "EGP"
   },
   {
-    "country-name": "埃塞俄比亚",
-    "currency-unit": "埃塞俄比亚比尔",
-    "currency-code": "ETB"
+    "country": "埃塞俄比亚",
+    "currencyUnit": "埃塞俄比亚比尔",
+    "currencyCode": "ETB"
   },
   {
-    "country-name": "基里巴斯",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "基里巴斯",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "塔吉克斯坦",
-    "currency-unit": "索摩尼",
-    "currency-code": "TJS"
+    "country": "塔吉克斯坦",
+    "currencyUnit": "索摩尼",
+    "currencyCode": "TJS"
   },
   {
-    "country-name": "塞内加尔",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "塞内加尔",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "塞尔维亚",
-    "currency-unit": "塞尔维亚第纳尔",
-    "currency-code": "RSD"
+    "country": "塞尔维亚",
+    "currencyUnit": "塞尔维亚第纳尔",
+    "currencyCode": "RSD"
   },
   {
-    "country-name": "塞拉利昂",
-    "currency-unit": "利昂",
-    "currency-code": "SLL"
+    "country": "塞拉利昂",
+    "currencyUnit": "利昂",
+    "currencyCode": "SLL"
   },
   {
-    "country-name": "塞浦路斯",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "塞浦路斯",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "塞舌尔",
-    "currency-unit": "塞舌尔卢比",
-    "currency-code": "SCR"
+    "country": "塞舌尔",
+    "currencyUnit": "塞舌尔卢比",
+    "currencyCode": "SCR"
   },
   {
-    "country-name": "墨西哥",
-    "currency-unit": "墨西哥比索",
-    "currency-code": "MXN"
+    "country": "墨西哥",
+    "currencyUnit": "墨西哥比索",
+    "currencyCode": "MXN"
   },
   {
-    "country-name": "墨西哥",
-    "currency-unit": "墨西哥基金（UDI）",
-    "currency-code": "MXV"
+    "country": "墨西哥",
+    "currencyUnit": "墨西哥基金（UDI）",
+    "currencyCode": "MXV"
   },
   {
-    "country-name": "多哥",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "多哥",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "多米尼加",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "多米尼加",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "多米尼加共和国",
-    "currency-unit": "多米尼加比索",
-    "currency-code": "DOP"
+    "country": "多米尼加共和国",
+    "currencyUnit": "多米尼加比索",
+    "currencyCode": "DOP"
   },
   {
-    "country-name": "大不列颠及北爱尔兰联合王国",
-    "currency-unit": "英镑",
-    "currency-code": "GBP"
+    "country": "大不列颠及北爱尔兰联合王国",
+    "currencyUnit": "英镑",
+    "currencyCode": "GBP"
   },
   {
-    "country-name": "奥兰群岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "奥兰群岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "奥地利",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "奥地利",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "委内瑞拉玻利瓦尔共和国",
-    "currency-unit": "玻利瓦尔",
-    "currency-code": "VEF"
+    "country": "委内瑞拉玻利瓦尔共和国",
+    "currencyUnit": "玻利瓦尔",
+    "currencyCode": "VEF"
   },
   {
-    "country-name": "孟加拉国",
-    "currency-unit": "塔卡",
-    "currency-code": "BDT"
+    "country": "孟加拉国",
+    "currencyUnit": "塔卡",
+    "currencyCode": "BDT"
   },
   {
-    "country-name": "安哥拉",
-    "currency-unit": "宽扎",
-    "currency-code": "AOA"
+    "country": "安哥拉",
+    "currencyUnit": "宽扎",
+    "currencyCode": "AOA"
   },
   {
-    "country-name": "安奎拉",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "安奎拉",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "安提瓜和巴布达",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "安提瓜和巴布达",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "安道尔",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "安道尔",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "密克罗尼西亚联邦",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "密克罗尼西亚联邦",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "尼加拉瓜",
-    "currency-unit": "尼加拉瓜新科多巴",
-    "currency-code": "NIO"
+    "country": "尼加拉瓜",
+    "currencyUnit": "尼加拉瓜新科多巴",
+    "currencyCode": "NIO"
   },
   {
-    "country-name": "尼日利亚",
-    "currency-unit": "奈拉",
-    "currency-code": "NGN"
+    "country": "尼日利亚",
+    "currencyUnit": "奈拉",
+    "currencyCode": "NGN"
   },
   {
-    "country-name": "尼日尔",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "尼日尔",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "尼泊尔",
-    "currency-unit": "尼泊尔卢比",
-    "currency-code": "NPR"
+    "country": "尼泊尔",
+    "currencyUnit": "尼泊尔卢比",
+    "currencyCode": "NPR"
   },
   {
-    "country-name": "巴勒斯坦国",
-    "currency-unit": "无统一货币",
-    "currency-code": ""
+    "country": "巴勒斯坦国",
+    "currencyUnit": "无统一货币",
+    "currencyCode": ""
   },
   {
-    "country-name": "巴哈马群岛",
-    "currency-unit": "巴哈马元",
-    "currency-code": "BSD"
+    "country": "巴哈马群岛",
+    "currencyUnit": "巴哈马元",
+    "currencyCode": "BSD"
   },
   {
-    "country-name": "巴基斯坦",
-    "currency-unit": "巴基斯坦卢比",
-    "currency-code": "PKR"
+    "country": "巴基斯坦",
+    "currencyUnit": "巴基斯坦卢比",
+    "currencyCode": "PKR"
   },
   {
-    "country-name": "巴巴多斯",
-    "currency-unit": "巴巴多斯元",
-    "currency-code": "BBD"
+    "country": "巴巴多斯",
+    "currencyUnit": "巴巴多斯元",
+    "currencyCode": "BBD"
   },
   {
-    "country-name": "巴布亚新几内亚",
-    "currency-unit": "基那",
-    "currency-code": "PGK"
+    "country": "巴布亚新几内亚",
+    "currencyUnit": "基那",
+    "currencyCode": "PGK"
   },
   {
-    "country-name": "巴拉圭",
-    "currency-unit": "瓜拉尼",
-    "currency-code": "PYG"
+    "country": "巴拉圭",
+    "currencyUnit": "瓜拉尼",
+    "currencyCode": "PYG"
   },
   {
-    "country-name": "巴拿马",
-    "currency-unit": "巴波亚",
-    "currency-code": "PAB"
+    "country": "巴拿马",
+    "currencyUnit": "巴波亚",
+    "currencyCode": "PAB"
   },
   {
-    "country-name": "巴拿马",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "巴拿马",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "巴林",
-    "currency-unit": "巴林第纳尔",
-    "currency-code": "BHD"
+    "country": "巴林",
+    "currencyUnit": "巴林第纳尔",
+    "currencyCode": "BHD"
   },
   {
-    "country-name": "巴西",
-    "currency-unit": "巴西雷亚尔",
-    "currency-code": "BRL"
+    "country": "巴西",
+    "currencyUnit": "巴西雷亚尔",
+    "currencyCode": "BRL"
   },
   {
-    "country-name": "布基纳法索",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "布基纳法索",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "布维岛",
-    "currency-unit": "挪威克朗",
-    "currency-code": "NOK"
+    "country": "布维岛",
+    "currencyUnit": "挪威克朗",
+    "currencyCode": "NOK"
   },
   {
-    "country-name": "布隆迪",
-    "currency-unit": "布隆迪法郎",
-    "currency-code": "BIF"
+    "country": "布隆迪",
+    "currencyUnit": "布隆迪法郎",
+    "currencyCode": "BIF"
   },
   {
-    "country-name": "希腊",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "希腊",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "帕劳",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "帕劳",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "帝汶-莱斯特",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "帝汶-莱斯特",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "库克群岛",
-    "currency-unit": "新西兰元",
-    "currency-code": "NZD"
+    "country": "库克群岛",
+    "currencyUnit": "新西兰元",
+    "currencyCode": "NZD"
   },
   {
-    "country-name": "库拉索岛",
-    "currency-unit": "荷属安的列斯盾",
-    "currency-code": "ANG"
+    "country": "库拉索岛",
+    "currencyUnit": "荷属安的列斯盾",
+    "currencyCode": "ANG"
   },
   {
-    "country-name": "开曼群岛",
-    "currency-unit": "开曼群岛元",
-    "currency-code": "KYD"
+    "country": "开曼群岛",
+    "currencyUnit": "开曼群岛元",
+    "currencyCode": "KYD"
   },
   {
-    "country-name": "德国",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "德国",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "意大利",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "意大利",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "所罗门群岛",
-    "currency-unit": "所罗门群岛元",
-    "currency-code": "SBD"
+    "country": "所罗门群岛",
+    "currencyUnit": "所罗门群岛元",
+    "currencyCode": "SBD"
   },
   {
-    "country-name": "托克劳",
-    "currency-unit": "新西兰元",
-    "currency-code": "NZD"
+    "country": "托克劳",
+    "currencyUnit": "新西兰元",
+    "currencyCode": "NZD"
   },
   {
-    "country-name": "拉脱维亚",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "拉脱维亚",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "挪威",
-    "currency-unit": "挪威克朗",
-    "currency-code": "NOK"
+    "country": "挪威",
+    "currencyUnit": "挪威克朗",
+    "currencyCode": "NOK"
   },
   {
-    "country-name": "捷克共和国",
-    "currency-unit": "捷克克朗",
-    "currency-code": "CZK"
+    "country": "捷克共和国",
+    "currencyUnit": "捷克克朗",
+    "currencyCode": "CZK"
   },
   {
-    "country-name": "摩尔多瓦共和国",
-    "currency-unit": "摩尔多瓦尼乌",
-    "currency-code": "MDL"
+    "country": "摩尔多瓦共和国",
+    "currencyUnit": "摩尔多瓦尼乌",
+    "currencyCode": "MDL"
   },
   {
-    "country-name": "摩洛哥",
-    "currency-unit": "摩洛哥迪拉姆",
-    "currency-code": "MAD"
+    "country": "摩洛哥",
+    "currencyUnit": "摩洛哥迪拉姆",
+    "currencyCode": "MAD"
   },
   {
-    "country-name": "摩纳哥",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "摩纳哥",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "文莱达鲁萨兰国",
-    "currency-unit": "文莱元",
-    "currency-code": "BND"
+    "country": "文莱达鲁萨兰国",
+    "currencyUnit": "文莱元",
+    "currencyCode": "BND"
   },
   {
-    "country-name": "斐济",
-    "currency-unit": "斐济元",
-    "currency-code": "FJD"
+    "country": "斐济",
+    "currencyUnit": "斐济元",
+    "currencyCode": "FJD"
   },
   {
-    "country-name": "斯威士兰",
-    "currency-unit": "里兰基尼",
-    "currency-code": "SZL"
+    "country": "斯威士兰",
+    "currencyUnit": "里兰基尼",
+    "currencyCode": "SZL"
   },
   {
-    "country-name": "斯洛伐克",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "斯洛伐克",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "斯洛文尼亚",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "斯洛文尼亚",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "斯瓦尔巴群岛",
-    "currency-unit": "挪威克朗",
-    "currency-code": "NOK"
+    "country": "斯瓦尔巴群岛",
+    "currencyUnit": "挪威克朗",
+    "currencyCode": "NOK"
   },
   {
-    "country-name": "斯里兰卡",
-    "currency-unit": "斯里兰卡卢比",
-    "currency-code": "LKR"
+    "country": "斯里兰卡",
+    "currencyUnit": "斯里兰卡卢比",
+    "currencyCode": "LKR"
   },
   {
-    "country-name": "新加坡",
-    "currency-unit": "新加坡元",
-    "currency-code": "SGD"
+    "country": "新加坡",
+    "currencyUnit": "新加坡元",
+    "currencyCode": "SGD"
   },
   {
-    "country-name": "新喀里多尼亚",
-    "currency-unit": "非洲金融共同体法郎",
-    "currency-code": "XPF"
+    "country": "新喀里多尼亚",
+    "currencyUnit": "非洲金融共同体法郎",
+    "currencyCode": "XPF"
   },
   {
-    "country-name": "新西兰",
-    "currency-unit": "新西兰元",
-    "currency-code": "NZD"
+    "country": "新西兰",
+    "currencyUnit": "新西兰元",
+    "currencyCode": "NZD"
   },
   {
-    "country-name": "日本",
-    "currency-unit": "日元",
-    "currency-code": "JPY"
+    "country": "日本",
+    "currencyUnit": "日元",
+    "currencyCode": "JPY"
   },
   {
-    "country-name": "智利",
-    "currency-unit": "智利资金",
-    "currency-code": "CLF"
+    "country": "智利",
+    "currencyUnit": "智利资金",
+    "currencyCode": "CLF"
   },
   {
-    "country-name": "智利",
-    "currency-unit": "智利比索",
-    "currency-code": "CLP"
+    "country": "智利",
+    "currencyUnit": "智利比索",
+    "currencyCode": "CLP"
   },
   {
-    "country-name": "朝鲜 (朝鲜民主共和国’S)",
-    "currency-unit": "朝鲜圆",
-    "currency-code": "KPW"
+    "country": "朝鲜 (朝鲜民主共和国’S)",
+    "currencyUnit": "朝鲜圆",
+    "currencyCode": "KPW"
   },
   {
-    "country-name": "柬埔寨",
-    "currency-unit": "瑞尔",
-    "currency-code": "KHR"
+    "country": "柬埔寨",
+    "currencyUnit": "瑞尔",
+    "currencyCode": "KHR"
   },
   {
-    "country-name": "格恩西岛",
-    "currency-unit": "英镑",
-    "currency-code": "GBP"
+    "country": "格恩西岛",
+    "currencyUnit": "英镑",
+    "currencyCode": "GBP"
   },
   {
-    "country-name": "格林纳达",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "格林纳达",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "格陵兰岛",
-    "currency-unit": "丹麦克朗",
-    "currency-code": "DKK"
+    "country": "格陵兰岛",
+    "currencyUnit": "丹麦克朗",
+    "currencyCode": "DKK"
   },
   {
-    "country-name": "格鲁吉亚",
-    "currency-unit": "拉里",
-    "currency-code": "GEL"
+    "country": "格鲁吉亚",
+    "currencyUnit": "拉里",
+    "currencyCode": "GEL"
   },
   {
-    "country-name": "梵蒂冈",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "梵蒂冈",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "欧盟",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "欧盟",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "比利时",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "比利时",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "毛里塔尼亚",
-    "currency-unit": "乌吉亚",
-    "currency-code": "MRU"
+    "country": "毛里塔尼亚",
+    "currencyUnit": "乌吉亚",
+    "currencyCode": "MRU"
   },
   {
-    "country-name": "毛里求斯",
-    "currency-unit": "毛里求斯卢比",
-    "currency-code": "MUR"
+    "country": "毛里求斯",
+    "currencyUnit": "毛里求斯卢比",
+    "currencyCode": "MUR"
   },
   {
-    "country-name": "汤加",
-    "currency-unit": "潘加’",
-    "currency-code": "TOP"
+    "country": "汤加",
+    "currencyUnit": "潘加’",
+    "currencyCode": "TOP"
   },
   {
-    "country-name": "沙特阿拉伯",
-    "currency-unit": "沙特里亚尔",
-    "currency-code": "SAR"
+    "country": "沙特阿拉伯",
+    "currencyUnit": "沙特里亚尔",
+    "currencyCode": "SAR"
   },
   {
-    "country-name": "法国",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "法国",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "法属南部领土",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "法属南部领土",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "法属圭亚那",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "法属圭亚那",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "法属玻利尼西亚",
-    "currency-unit": "非洲金融共同体法郎",
-    "currency-code": "XPF"
+    "country": "法属玻利尼西亚",
+    "currencyUnit": "非洲金融共同体法郎",
+    "currencyCode": "XPF"
   },
   {
-    "country-name": "法罗群岛",
-    "currency-unit": "丹麦克朗",
-    "currency-code": "DKK"
+    "country": "法罗群岛",
+    "currencyUnit": "丹麦克朗",
+    "currencyCode": "DKK"
   },
   {
-    "country-name": "波兰",
-    "currency-unit": "兹罗提",
-    "currency-code": "PLN"
+    "country": "波兰",
+    "currencyUnit": "兹罗提",
+    "currencyCode": "PLN"
   },
   {
-    "country-name": "波多尼哥",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "波多尼哥",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "波斯尼亚和黑塞哥维那",
-    "currency-unit": "可兑换马克",
-    "currency-code": "BAM"
+    "country": "波斯尼亚和黑塞哥维那",
+    "currencyUnit": "可兑换马克",
+    "currencyCode": "BAM"
   },
   {
-    "country-name": "泰国",
-    "currency-unit": "泰铢",
-    "currency-code": "THB"
+    "country": "泰国",
+    "currencyUnit": "泰铢",
+    "currencyCode": "THB"
   },
   {
-    "country-name": "泽西岛",
-    "currency-unit": "英镑",
-    "currency-code": "GBP"
+    "country": "泽西岛",
+    "currencyUnit": "英镑",
+    "currencyCode": "GBP"
   },
   {
-    "country-name": "津巴布韦",
-    "currency-unit": "津巴布韦元",
-    "currency-code": "ZWL"
+    "country": "津巴布韦",
+    "currencyUnit": "津巴布韦元",
+    "currencyCode": "ZWL"
   },
   {
-    "country-name": "洪都拉斯",
-    "currency-unit": "伦皮拉",
-    "currency-code": "HNL"
+    "country": "洪都拉斯",
+    "currencyUnit": "伦皮拉",
+    "currencyCode": "HNL"
   },
   {
-    "country-name": "海地",
-    "currency-unit": "古德",
-    "currency-code": "HTG"
+    "country": "海地",
+    "currencyUnit": "古德",
+    "currencyCode": "HTG"
   },
   {
-    "country-name": "海地",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "海地",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "澳大利亚",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "澳大利亚",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "爱尔兰",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "爱尔兰",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "爱沙尼亚",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "爱沙尼亚",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "牙买加",
-    "currency-unit": "牙买加元",
-    "currency-code": "JMD"
+    "country": "牙买加",
+    "currencyUnit": "牙买加元",
+    "currencyCode": "JMD"
   },
   {
-    "country-name": "特克斯和凯科斯群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "特克斯和凯科斯群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "特立达与多巴哥",
-    "currency-unit": "特立达与多巴哥元",
-    "currency-code": "TTD"
+    "country": "特立达与多巴哥",
+    "currencyUnit": "特立达与多巴哥元",
+    "currencyCode": "TTD"
   },
   {
-    "country-name": "玻利维亚（多民族玻利维亚国）",
-    "currency-unit": "玻利维亚诺",
-    "currency-code": "BOB"
+    "country": "玻利维亚（多民族玻利维亚国）",
+    "currencyUnit": "玻利维亚诺",
+    "currencyCode": "BOB"
   },
   {
-    "country-name": "玻利维亚（多民族玻利维亚国）",
-    "currency-unit": "玻利维亚资金",
-    "currency-code": "BOV"
+    "country": "玻利维亚（多民族玻利维亚国）",
+    "currencyUnit": "玻利维亚资金",
+    "currencyCode": "BOV"
   },
   {
-    "country-name": "瑙鲁",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "瑙鲁",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "瑞典",
-    "currency-unit": "瑞典克朗",
-    "currency-code": "SEK"
+    "country": "瑞典",
+    "currencyUnit": "瑞典克朗",
+    "currencyCode": "SEK"
   },
   {
-    "country-name": "瑞士",
-    "currency-unit": "WIR欧元",
-    "currency-code": "CHE"
+    "country": "瑞士",
+    "currencyUnit": "WIR欧元",
+    "currencyCode": "CHE"
   },
   {
-    "country-name": "瑞士",
-    "currency-unit": "瑞士法郎",
-    "currency-code": "CHF"
+    "country": "瑞士",
+    "currencyUnit": "瑞士法郎",
+    "currencyCode": "CHF"
   },
   {
-    "country-name": "瑞士",
-    "currency-unit": "WIR法郎",
-    "currency-code": "CHW"
+    "country": "瑞士",
+    "currencyUnit": "WIR法郎",
+    "currencyCode": "CHW"
   },
   {
-    "country-name": "瓜德罗普岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "瓜德罗普岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "瓦利斯群岛和富图纳群岛",
-    "currency-unit": "非洲金融共同体法郎",
-    "currency-code": "XPF"
+    "country": "瓦利斯群岛和富图纳群岛",
+    "currencyUnit": "非洲金融共同体法郎",
+    "currencyCode": "XPF"
   },
   {
-    "country-name": "瓦努阿图",
-    "currency-unit": "瓦图",
-    "currency-code": "VUV"
+    "country": "瓦努阿图",
+    "currencyUnit": "瓦图",
+    "currencyCode": "VUV"
   },
   {
-    "country-name": "留尼汪",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "留尼汪",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "白俄罗斯",
-    "currency-unit": "白俄罗斯卢布",
-    "currency-code": "BYR"
+    "country": "白俄罗斯",
+    "currencyUnit": "白俄罗斯卢布",
+    "currencyCode": "BYR"
   },
   {
-    "country-name": "百慕大群岛",
-    "currency-unit": "百慕大元",
-    "currency-code": "BMD"
+    "country": "百慕大群岛",
+    "currencyUnit": "百慕大元",
+    "currencyCode": "BMD"
   },
   {
-    "country-name": "皮特凯恩",
-    "currency-unit": "新西兰元",
-    "currency-code": "NZD"
+    "country": "皮特凯恩",
+    "currencyUnit": "新西兰元",
+    "currencyCode": "NZD"
   },
   {
-    "country-name": "直布罗陀",
-    "currency-unit": "直布罗陀镑",
-    "currency-code": "GIP"
+    "country": "直布罗陀",
+    "currencyUnit": "直布罗陀镑",
+    "currencyCode": "GIP"
   },
   {
-    "country-name": "福克兰群岛[马尔维纳斯群岛]",
-    "currency-unit": "福克兰群岛镑",
-    "currency-code": "FKP"
+    "country": "福克兰群岛[马尔维纳斯群岛]",
+    "currencyUnit": "福克兰群岛镑",
+    "currencyCode": "FKP"
   },
   {
-    "country-name": "科克斯（克林）群岛",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "科克斯（克林）群岛",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "科威特",
-    "currency-unit": "科威特第纳尔",
-    "currency-code": "KWD"
+    "country": "科威特",
+    "currencyUnit": "科威特第纳尔",
+    "currencyCode": "KWD"
   },
   {
-    "country-name": "科摩罗",
-    "currency-unit": "科摩罗法郎",
-    "currency-code": "KMF"
+    "country": "科摩罗",
+    "currencyUnit": "科摩罗法郎",
+    "currencyCode": "KMF"
   },
   {
-    "country-name": "科特迪瓦",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "科特迪瓦",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "秘鲁",
-    "currency-unit": "新索尔",
-    "currency-code": "PEN"
+    "country": "秘鲁",
+    "currencyUnit": "新索尔",
+    "currencyCode": "PEN"
   },
   {
-    "country-name": "突尼斯",
-    "currency-unit": "突尼斯第纳尔",
-    "currency-code": "TND"
+    "country": "突尼斯",
+    "currencyUnit": "突尼斯第纳尔",
+    "currencyCode": "TND"
   },
   {
-    "country-name": "立陶宛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "立陶宛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "索马里",
-    "currency-unit": "索马里先令",
-    "currency-code": "SOS"
+    "country": "索马里",
+    "currencyUnit": "索马里先令",
+    "currencyCode": "SOS"
   },
   {
-    "country-name": "约旦",
-    "currency-unit": "约旦第纳尔",
-    "currency-code": "JOD"
+    "country": "约旦",
+    "currencyUnit": "约旦第纳尔",
+    "currencyCode": "JOD"
   },
   {
-    "country-name": "纳米比亚",
-    "currency-unit": "纳米比亚元",
-    "currency-code": "NAD"
+    "country": "纳米比亚",
+    "currencyUnit": "纳米比亚元",
+    "currencyCode": "NAD"
   },
   {
-    "country-name": "纳米比亚",
-    "currency-unit": "兰特",
-    "currency-code": "ZAR"
+    "country": "纳米比亚",
+    "currencyUnit": "兰特",
+    "currencyCode": "ZAR"
   },
   {
-    "country-name": "纽埃岛",
-    "currency-unit": "新西兰元",
-    "currency-code": "NZD"
+    "country": "纽埃岛",
+    "currencyUnit": "新西兰元",
+    "currencyCode": "NZD"
   },
   {
-    "country-name": "维德角",
-    "currency-unit": "佛得角埃斯库多",
-    "currency-code": "CVE"
+    "country": "维德角",
+    "currencyUnit": "佛得角埃斯库多",
+    "currencyCode": "CVE"
   },
   {
-    "country-name": "缅甸",
-    "currency-unit": "缅甸元",
-    "currency-code": "MMK"
+    "country": "缅甸",
+    "currencyUnit": "缅甸元",
+    "currencyCode": "MMK"
   },
   {
-    "country-name": "罗马尼亚",
-    "currency-unit": "罗马尼亚列伊",
-    "currency-code": "RON"
+    "country": "罗马尼亚",
+    "currencyUnit": "罗马尼亚列伊",
+    "currencyCode": "RON"
   },
   {
-    "country-name": "美国",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "美国",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "美国",
-    "currency-unit": "美元（次日）",
-    "currency-code": "USN"
+    "country": "美国",
+    "currencyUnit": "美元（次日）",
+    "currencyCode": "USN"
   },
   {
-    "country-name": "美属维京群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "美属维京群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "美属萨摩亚",
-    "currency-unit": "美元US Dollar",
-    "currency-code": "USD"
+    "country": "美属萨摩亚",
+    "currencyUnit": "美元US Dollar",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "美属边疆群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "美属边疆群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "老挝人民’S民主共和国",
-    "currency-unit": "基普",
-    "currency-code": "LAK"
+    "country": "老挝人民’S民主共和国",
+    "currencyUnit": "基普",
+    "currencyCode": "LAK"
   },
   {
-    "country-name": "肯尼亚",
-    "currency-unit": "肯尼亚先令",
-    "currency-code": "KES"
+    "country": "肯尼亚",
+    "currencyUnit": "肯尼亚先令",
+    "currencyCode": "KES"
   },
   {
-    "country-name": "芬兰",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "芬兰",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "苏丹",
-    "currency-unit": "苏丹镑",
-    "currency-code": "SDG"
+    "country": "苏丹",
+    "currencyUnit": "苏丹镑",
+    "currencyCode": "SDG"
   },
   {
-    "country-name": "苏里南",
-    "currency-unit": "苏里南元",
-    "currency-code": "SRD"
+    "country": "苏里南",
+    "currencyUnit": "苏里南元",
+    "currencyCode": "SRD"
   },
   {
-    "country-name": "英国属地曼岛",
-    "currency-unit": "英镑",
-    "currency-code": "GBP"
+    "country": "英国属地曼岛",
+    "currencyUnit": "英镑",
+    "currencyCode": "GBP"
   },
   {
-    "country-name": "英属印度洋领土",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "英属印度洋领土",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "英属维京群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "英属维京群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "荷兰",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "荷兰",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "莫桑比克",
-    "currency-unit": "莫桑比克梅蒂卡尔",
-    "currency-code": "MZN"
+    "country": "莫桑比克",
+    "currencyUnit": "莫桑比克梅蒂卡尔",
+    "currencyCode": "MZN"
   },
   {
-    "country-name": "莱索托",
-    "currency-unit": "鲁梯",
-    "currency-code": "LSL"
+    "country": "莱索托",
+    "currencyUnit": "鲁梯",
+    "currencyCode": "LSL"
   },
   {
-    "country-name": "莱索托",
-    "currency-unit": "兰特",
-    "currency-code": "ZAR"
+    "country": "莱索托",
+    "currencyUnit": "兰特",
+    "currencyCode": "ZAR"
   },
   {
-    "country-name": "菲律宾",
-    "currency-unit": "菲律宾比索",
-    "currency-code": "PHP"
+    "country": "菲律宾",
+    "currencyUnit": "菲律宾比索",
+    "currencyCode": "PHP"
   },
   {
-    "country-name": "萨尔瓦多",
-    "currency-unit": "萨尔瓦多科朗",
-    "currency-code": "SVC"
+    "country": "萨尔瓦多",
+    "currencyUnit": "萨尔瓦多科朗",
+    "currencyCode": "SVC"
   },
   {
-    "country-name": "萨尔瓦多",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "萨尔瓦多",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "萨摩亚",
-    "currency-unit": "塔拉",
-    "currency-code": "WST"
+    "country": "萨摩亚",
+    "currencyUnit": "塔拉",
+    "currencyCode": "WST"
   },
   {
-    "country-name": "葡萄牙",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "葡萄牙",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "蒙古国",
-    "currency-unit": "图格里克",
-    "currency-code": "MNT"
+    "country": "蒙古国",
+    "currencyUnit": "图格里克",
+    "currencyCode": "MNT"
   },
   {
-    "country-name": "蒙特塞拉特岛",
-    "currency-unit": "东加勒比元",
-    "currency-code": "XCD"
+    "country": "蒙特塞拉特岛",
+    "currencyUnit": "东加勒比元",
+    "currencyCode": "XCD"
   },
   {
-    "country-name": "西撒哈拉",
-    "currency-unit": "摩洛哥迪纳姆",
-    "currency-code": "MAD"
+    "country": "西撒哈拉",
+    "currencyUnit": "摩洛哥迪纳姆",
+    "currencyCode": "MAD"
   },
   {
-    "country-name": "西班牙",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "西班牙",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "诺福克岛",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "诺福克岛",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "贝宁",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "贝宁",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "赞比亚",
-    "currency-unit": "赞比亚克瓦查",
-    "currency-code": "ZMW"
+    "country": "赞比亚",
+    "currencyUnit": "赞比亚克瓦查",
+    "currencyCode": "ZMW"
   },
   {
-    "country-name": "赤道几内亚",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XAF"
+    "country": "赤道几内亚",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XAF"
   },
   {
-    "country-name": "赫德岛和麦克唐纳群岛",
-    "currency-unit": "澳元",
-    "currency-code": "AUD"
+    "country": "赫德岛和麦克唐纳群岛",
+    "currencyUnit": "澳元",
+    "currencyCode": "AUD"
   },
   {
-    "country-name": "越南",
-    "currency-unit": "越南盾",
-    "currency-code": "VND"
+    "country": "越南",
+    "currencyUnit": "越南盾",
+    "currencyCode": "VND"
   },
   {
-    "country-name": "阿塞拜疆",
-    "currency-unit": "阿塞拜疆马纳特",
-    "currency-code": "AZN"
+    "country": "阿塞拜疆",
+    "currencyUnit": "阿塞拜疆马纳特",
+    "currencyCode": "AZN"
   },
   {
-    "country-name": "阿富汗",
-    "currency-unit": "阿尼",
-    "currency-code": "AFN"
+    "country": "阿富汗",
+    "currencyUnit": "阿尼",
+    "currencyCode": "AFN"
   },
   {
-    "country-name": "阿尔及利亚",
-    "currency-unit": "阿尔及利亚第纳尔",
-    "currency-code": "DZD"
+    "country": "阿尔及利亚",
+    "currencyUnit": "阿尔及利亚第纳尔",
+    "currencyCode": "DZD"
   },
   {
-    "country-name": "阿尔巴尼亚",
-    "currency-unit": "列克",
-    "currency-code": "ALL"
+    "country": "阿尔巴尼亚",
+    "currencyUnit": "列克",
+    "currencyCode": "ALL"
   },
   {
-    "country-name": "阿拉伯叙利亚共和国",
-    "currency-unit": "叙利亚镑",
-    "currency-code": "SYP"
+    "country": "阿拉伯叙利亚共和国",
+    "currencyUnit": "叙利亚镑",
+    "currencyCode": "SYP"
   },
   {
-    "country-name": "阿拉伯联合酋长国",
-    "currency-unit": "阿联酋迪拉姆",
-    "currency-code": "AED"
+    "country": "阿拉伯联合酋长国",
+    "currencyUnit": "阿联酋迪拉姆",
+    "currencyCode": "AED"
   },
   {
-    "country-name": "阿曼",
-    "currency-unit": "阿曼里亚尔",
-    "currency-code": "OMR"
+    "country": "阿曼",
+    "currencyUnit": "阿曼里亚尔",
+    "currencyCode": "OMR"
   },
   {
-    "country-name": "阿根廷",
-    "currency-unit": "阿根廷比索",
-    "currency-code": "ARS"
+    "country": "阿根廷",
+    "currencyUnit": "阿根廷比索",
+    "currencyCode": "ARS"
   },
   {
-    "country-name": "阿鲁巴岛",
-    "currency-unit": "阿鲁巴弗洛林",
-    "currency-code": "AWG"
+    "country": "阿鲁巴岛",
+    "currencyUnit": "阿鲁巴弗洛林",
+    "currencyCode": "AWG"
   },
   {
-    "country-name": "非洲开发银行组织成员国",
-    "currency-unit": "非洲发展银行账户单位",
-    "currency-code": "XUA"
+    "country": "非洲开发银行组织成员国",
+    "currencyUnit": "非洲发展银行账户单位",
+    "currencyCode": "XUA"
   },
   {
-    "country-name": "韩国(韩国共和国)",
-    "currency-unit": "韩元",
-    "currency-code": "KRW"
+    "country": "韩国(韩国共和国)",
+    "currencyUnit": "韩元",
+    "currencyCode": "KRW"
   },
   {
-    "country-name": "马其顿（前南斯拉夫的马其顿共和国）",
-    "currency-unit": "第纳尔",
-    "currency-code": "MKD"
+    "country": "马其顿（前南斯拉夫的马其顿共和国）",
+    "currencyUnit": "第纳尔",
+    "currencyCode": "MKD"
   },
   {
-    "country-name": "马尔代夫",
-    "currency-unit": "拉菲亚",
-    "currency-code": "MVR"
+    "country": "马尔代夫",
+    "currencyUnit": "拉菲亚",
+    "currencyCode": "MVR"
   },
   {
-    "country-name": "马拉维",
-    "currency-unit": "克瓦查",
-    "currency-code": "MWK"
+    "country": "马拉维",
+    "currencyUnit": "克瓦查",
+    "currencyCode": "MWK"
   },
   {
-    "country-name": "马提尼克岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "马提尼克岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "马来西亚",
-    "currency-unit": "马来西亚林吉特",
-    "currency-code": "MYR"
+    "country": "马来西亚",
+    "currencyUnit": "马来西亚林吉特",
+    "currencyCode": "MYR"
   },
   {
-    "country-name": "马约特岛",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "马约特岛",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "马绍尔群岛",
-    "currency-unit": "美元",
-    "currency-code": "USD"
+    "country": "马绍尔群岛",
+    "currencyUnit": "美元",
+    "currencyCode": "USD"
   },
   {
-    "country-name": "马耳他",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "马耳他",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   },
   {
-    "country-name": "马达加斯加",
-    "currency-unit": "阿里亚里",
-    "currency-code": "MGA"
+    "country": "马达加斯加",
+    "currencyUnit": "阿里亚里",
+    "currencyCode": "MGA"
   },
   {
-    "country-name": "马里",
-    "currency-unit": "多哥非洲共同体法郎",
-    "currency-code": "XOF"
+    "country": "马里",
+    "currencyUnit": "多哥非洲共同体法郎",
+    "currencyCode": "XOF"
   },
   {
-    "country-name": "黎巴嫩",
-    "currency-unit": "黎巴嫩镑",
-    "currency-code": "LBP"
+    "country": "黎巴嫩",
+    "currencyUnit": "黎巴嫩镑",
+    "currencyCode": "LBP"
   },
   {
-    "country-name": "黑山共和国",
-    "currency-unit": "欧元",
-    "currency-code": "EUR"
+    "country": "黑山共和国",
+    "currencyUnit": "欧元",
+    "currencyCode": "EUR"
   }
 ]
