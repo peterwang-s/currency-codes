@@ -1,4 +1,5 @@
-# currency-codes-form-iban
+# currency codes [JSON]
+
 Obtain the latest data of currency- Codes from the official website of an international bank
 
 
